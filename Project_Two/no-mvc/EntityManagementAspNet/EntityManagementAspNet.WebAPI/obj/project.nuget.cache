@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZHnTc9TVPw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samet\\Desktop\\mobility_interview\\Project_Two\\EntityManagementAspNet\\EntityManagementAspNet.WebAPI\\EntityManagementAspNet.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\Samet\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

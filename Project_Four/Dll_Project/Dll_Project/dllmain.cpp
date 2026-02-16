@@ -6,3 +6,9 @@ int Multiple(int a, int b)
 {
     return a * b;
 }
+
+extern "C" __declspec(dllexport)
+int Divide(int a, int b)
+{
+    return a / b;
+}

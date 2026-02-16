@@ -40,3 +40,4 @@ C:\Users\Samet\Downloads\mobility_interview\mobility_interview\Project_Four\Cons
 C:\Users\Samet\Downloads\mobility_interview\mobility_interview\Project_Four\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\Samet\Downloads\mobility_interview\mobility_interview\Project_Four\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Samet\Downloads\mobility_interview\mobility_interview\Project_Four\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\Samet\Desktop\mobility_interview\Project_Four\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json

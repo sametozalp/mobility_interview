@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Samet\\Desktop\\Dll_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Samet\\Desktop\\mobility_interview\\Project_Four\\Dll_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA2B5D09-E5FF-4E76-9493-CB5FB297EE78}|Dll_Project\\Dll_Project.vcxproj|C:\\Users\\Samet\\Desktop\\Dll_Project\\Dll_Project\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BA2B5D09-E5FF-4E76-9493-CB5FB297EE78}|Dll_Project\\Dll_Project.vcxproj|C:\\Users\\Samet\\Desktop\\mobility_interview\\Project_Four\\Dll_Project\\Dll_Project\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BA2B5D09-E5FF-4E76-9493-CB5FB297EE78}|Dll_Project\\Dll_Project.vcxproj|solutionrelative:Dll_Project\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "dllmain.cpp",
-              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\Dll_Project\\Dll_Project\\dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\Samet\\Desktop\\mobility_interview\\Project_Four\\Dll_Project\\Dll_Project\\dllmain.cpp",
               "RelativeDocumentMoniker": "Dll_Project\\dllmain.cpp",
-              "ToolTip": "C:\\Users\\Samet\\Desktop\\Dll_Project\\Dll_Project\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\Samet\\Desktop\\mobility_interview\\Project_Four\\Dll_Project\\Dll_Project\\dllmain.cpp",
               "RelativeToolTip": "Dll_Project\\dllmain.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T13:13:07.837Z",
               "EditorCaption": ""

@@ -1,3 +1,4 @@
-﻿  dllmain.cpp
-     Creating library C:\Users\Samet\Desktop\Dll_Project\x64\Debug\Dll_Project.lib and object C:\Users\Samet\Desktop\Dll_Project\x64\Debug\Dll_Project.exp
-  Dll_Project.vcxproj -> C:\Users\Samet\Desktop\Dll_Project\x64\Debug\Dll_Project.dll
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\Samet\Desktop\mobility_interview\Project_Four\Dll_Project\x64\Debug\Dll_Project.lib and object C:\Users\Samet\Desktop\mobility_interview\Project_Four\Dll_Project\x64\Debug\Dll_Project.exp
+  Dll_Project.vcxproj -> C:\Users\Samet\Desktop\mobility_interview\Project_Four\Dll_Project\x64\Debug\Dll_Project.dll

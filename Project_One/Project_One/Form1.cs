@@ -2,6 +2,8 @@ namespace Project_One
 {
     public partial class Form1 : Form
     {
+        Thread thread2;
+
         public Form1()
         {
             InitializeComponent();
@@ -38,6 +40,7 @@ namespace Project_One
             listBox1.Items.Clear();
 
             Thread thread1 = new Thread(()=>CalculatePrimes(int.Parse(textBox1.Text.ToString()),listBox1));
+            thread1.IsBackground = true;
             thread1.Start();
         }
 
@@ -45,7 +48,8 @@ namespace Project_One
         {
             listBox2.Items.Clear();
 
-            Thread thread2 = new Thread(() => CalculatePrimes(int.Parse(textBox2.Text.ToString()), listBox2));
+            thread2 = new Thread(() => CalculatePrimes(int.Parse(textBox2.Text.ToString()), listBox2));
+            thread2.IsBackground = true;
             thread2.Start();
         }
     }

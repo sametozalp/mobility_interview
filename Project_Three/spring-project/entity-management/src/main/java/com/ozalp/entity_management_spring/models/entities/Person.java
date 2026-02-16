@@ -30,4 +30,7 @@ public class Person extends BaseEntity {
 
     @Column(name = "phone_number")
     private String phoneNumber;
+
+    @Column(name = "occupation")
+    private String occupation;
 }

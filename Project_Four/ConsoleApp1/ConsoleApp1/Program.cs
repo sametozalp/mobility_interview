@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.Write("Second number: ");
             int secondNumber = int.Parse(Console.ReadLine());
 
-            int result = Multiple(firstNumber, secondNumber);
+            int result = Divide(firstNumber, secondNumber);
 
             Console.WriteLine("Result: " + result);
             Console.ReadLine();
@@ -21,5 +21,8 @@ namespace ConsoleApp1
 
         [DllImport("Dll_Project.dll", CallingConvention = CallingConvention.Cdecl)] // clear garbage -> c#, not dll
         static extern int Multiple(int a, int b);
+
+        [DllImport("Dll_Project.dll", CallingConvention = CallingConvention.Cdecl)] // clear garbage -> c#, not dll
+        static extern int Divide(int a, int b);
     }
 }

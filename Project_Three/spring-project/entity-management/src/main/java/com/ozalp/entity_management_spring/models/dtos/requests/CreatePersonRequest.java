@@ -16,4 +16,7 @@ public class CreatePersonRequest {
     private String email;
 
     private String phoneNumber;
+
+    private String occupation;
+
 }
